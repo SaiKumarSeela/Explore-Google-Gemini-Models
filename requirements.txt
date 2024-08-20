@@ -8,3 +8,6 @@ langchain_google_genai
 faiss-cpu
 langchain-community
 pdf2image
+youtube_transcript_api
+pathlib
+
